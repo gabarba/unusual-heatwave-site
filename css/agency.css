@@ -865,3 +865,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+
+#pedigree-table td {
+    border-color:#FFF;
+    vertical-align: middle;
+}
+#pedigree-table a, #pedigree-table a:visited {
+    color:#DAA520;
+}
+
+#pedigree-table a:active, #pedigree-table a:hover {
+    color:#fec503;
+}
