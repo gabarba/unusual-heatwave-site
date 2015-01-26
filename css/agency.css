@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+   /* color: #fed136;*/
 }
 
 a:hover,
@@ -877,4 +877,9 @@ body {
 
 #pedigree-table a:active, #pedigree-table a:hover {
     color:#fec503;
+}
+
+#photo-headon {
+    display:inline-block;
+    width:35%;
 }

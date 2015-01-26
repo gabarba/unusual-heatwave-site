@@ -24,3 +24,15 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(function() {
+	$('.rwd-1').responsiveTable({
+		addFocusBtn:false
+	});
+});
+
+$(function() {
+	$('.rwd-2').responsiveTable({
+		addFocusBtn:false
+	});
+})
